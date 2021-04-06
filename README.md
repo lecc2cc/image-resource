@@ -1,2 +1,3 @@
 # image-resource
-image 
+
+image files
